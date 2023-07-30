@@ -1,7 +1,7 @@
 export default function Product ({details = {}}) {
   const {id, name, description, price, discount, imgUrl} = details;
 
-  return (<div key={id} className="flex flex-col justify-center items-center p-5 mb-5">
+  return (<div key={id} className="flex flex-col justify-start items-center p-5 mb-5">
     <div className="relative h-80 w-44">
       <img
         alt=""

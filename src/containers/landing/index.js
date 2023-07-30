@@ -22,7 +22,7 @@ export default function Landing () {
     </section>
     <section className="w-full flex justify-end items-center p-6 md:pb-24 md:px-24">
       <div className="bg-[url('./static/images/laptop-camera-accessories-white-background-with-copy-space_23-2147924097.jpeg')] w-full h-72 md:h-96 bg-center bg-cover bg-no-repeat flex flex-col justify-center items-center">
-        <h2 className="font-bold text-2xl md:text-4xl mt-16 text-gray-800">Explore your Universe</h2>
+        <h2 className="font-bold text-2xl md:text-4xl text-gray-800">Explore your Universe</h2>
         <Button 
           className="mt-8"
           onClick={() => {alert("Let's go!!!")}}
