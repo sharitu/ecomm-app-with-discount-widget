@@ -15,7 +15,7 @@
     "description": "Lorem ipsum dolor sit",
     "price": {
       "code": "$",
-      "value": 320
+      "value": 32.05
     },
     "imgUrl": "top-view-composition-colourful-paper-sheets_23-2148603797.jpeg"
   }, {
@@ -24,7 +24,7 @@
     "description": "Lorem ipsum dolor sit",
     "price": {
       "code": "$",
-      "value": 400
+      "value": 499.99
     },
     "imgUrl": "flat-lay-arrangement-colourful-paper-sheets_23-2148603800.jpeg"
   }]
