@@ -1,0 +1,49 @@
+{
+  "count": 3,
+  "data": [{
+    "id": "1",
+    "name": "Product 1",
+    "description": "Lorem ipsum dolor sit",
+    "price": {
+      "code": "$",
+      "value": 240
+    },
+    "discount": {
+      "percent": 0,
+      "value": 0,
+      "code": "$",
+      "discountedPrice": 240
+    },
+    "imgUrl": "flat-lay-assortment-multicolored-paper-sheets_23-2148603782.png"
+  }, {
+    "id": "2",
+    "name": "Product 2",
+    "description": "Lorem ipsum dolor sit",
+    "price": {
+      "code": "$",
+      "value": 320
+    },
+    "discount": {
+      "percent": 0,
+      "value": 0,
+      "code": "$",
+      "discountedPrice": 320
+    },
+    "imgUrl": "top-view-composition-colourful-paper-sheets_23-2148603797.jpeg"
+  }, {
+    "id": "3",
+    "name": "Product 3",
+    "description": "Lorem ipsum dolor sit",
+    "price": {
+      "code": "$",
+      "value": 400
+    },
+    "discount": {
+      "percent": 0,
+      "value": 0,
+      "code": "$",
+      "discountedPrice": 400
+    },
+    "imgUrl": "flat-lay-arrangement-colourful-paper-sheets_23-2148603800.jpeg"
+  }]
+}
